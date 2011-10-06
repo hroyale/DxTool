@@ -1,0 +1,94 @@
+﻿
+html {height: 100%;}
+body {text-align:left; font: 12px/18px  Arial,sans-serif; background-color:#339999; background-image:none;}
+.container {width:580px;
+	height:520px;
+	background-color:#FFFFFF;
+	margin: 100px auto auto auto;
+	padding: 28px;
+	font: 13px/19px Arial;
+	Color: black;
+	}
+
+
+#regPage img {
+display: block;
+
+}
+    
+#rightSide {
+	width:140px;
+	height:280px;
+	margin:0px;
+	padding:0px;
+	float:right;
+}
+
+.error 
+{
+    height:200px;
+    padding:0px;
+    margin:0px;
+    color: Red;
+    font-weight: bold;
+    }    
+    
+#register 
+{
+    width:440px;
+    font-size:13px;
+    float:left;
+	background-image: url(/images/FormFieldBox.png);
+        background-repeat:no-repeat;
+    }    
+
+#register div 
+{
+    /*margin:20px;
+    border: solid 1px green;*/
+    }    
+
+#register em 
+{
+   font-size:11px;
+   font-style: italic;
+    } 
+    
+#register input
+{
+    margin:0px;
+    padding:0px;
+    /*margin-left:200px;
+    float:right;*/
+    }    
+
+.teal {
+	font: bold 16px/19px "Georgia", Times, serif;
+	Color:#339999;
+	margin-top:10px;
+}
+
+.submitBtn{
+position:relative;
+left:10px;
+top:10px;
+
+}
+
+.footer{
+	text-align:center;
+	color:#FFFFFF;
+	font: bold 13px Arial;
+	width:700px;
+	margin: 10px auto 10px auto;
+	
+}
+
+.footer a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.footer a:hover{
+	text-decoration: underline;
+}

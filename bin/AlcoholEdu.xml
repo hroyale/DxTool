@@ -1,0 +1,5011 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AlcoholEdu
+</name>
+</assembly>
+<members>
+<member name="F:AlcoholEdu.student21comments.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.student21comments.megan">
+	<summary>
+megan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.student21comments.spencer">
+	<summary>
+spencer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.student21comments.nineteen">
+	<summary>
+nineteen control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.student21comments.miranda">
+	<summary>
+miranda control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.student21comments.errPanel">
+	<summary>
+errPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.courtverifylogin.LitEMAIL2">
+	<summary>
+LitEMAIL2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.HonorPolicy1.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.HonorPolicy1.honorpolicy">
+	<summary>
+honorpolicy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.GoalSetting.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.GoalSetting.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.GoalSetting.showContent">
+	<summary>
+showContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.GoalSetting.goalFormat">
+	<summary>
+goalFormat control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.GoalSetting.showGoalContent">
+	<summary>
+showGoalContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.GoalSetting.gsNext">
+	<summary>
+gsNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.GoalSetting.showAltButton">
+	<summary>
+showAltButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.GoalSetting.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.GoalSetting.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Stories.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Stories.Esther">
+	<summary>
+Esther control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Stories.James">
+	<summary>
+James control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Stories.Allison">
+	<summary>
+Allison control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Stories.Ian">
+	<summary>
+Ian control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Stories.Sarah">
+	<summary>
+Sarah control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Stories.errPanel">
+	<summary>
+errPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.sanverifylogin.LitEMAIL2">
+	<summary>
+LitEMAIL2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PanelInfo.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PanelInfo.showThankYou">
+	<summary>
+showThankYou control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PanelInfo.showForm">
+	<summary>
+showForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PanelInfo.cbPanel">
+	<summary>
+cbPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PanelInfo.panelSubmit">
+	<summary>
+panelSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.RetakeTest.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.RetakeTest.HyperLink1">
+	<summary>
+HyperLink1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.RetakeTest.Button1">
+	<summary>
+Button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.enter.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.enter.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.enter.errorDisplay">
+	<summary>
+errorDisplay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.enter.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.message">
+	<summary>
+message control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.firstName">
+	<summary>
+firstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.mName">
+	<summary>
+mName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.lastName">
+	<summary>
+lastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.userLogin">
+	<summary>
+userLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.password">
+	<summary>
+password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.showID">
+	<summary>
+showID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.SID">
+	<summary>
+SID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.SID2">
+	<summary>
+SID2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.showTag">
+	<summary>
+showTag control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.tagLabel">
+	<summary>
+tagLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.studentTag">
+	<summary>
+studentTag control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.studentTag2">
+	<summary>
+studentTag2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.editButton">
+	<summary>
+editButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.editprofile.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.audioPlayer.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.audioPlayer.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.audioPlayer.slideConents">
+	<summary>
+slideConents control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.audioPlayer.errorMsg">
+	<summary>
+errorMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.audioPlayer.magicWand">
+	<summary>
+magicWand control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.audioPlayer.playlistcontents">
+	<summary>
+playlistcontents control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.audioPlayer.hideCC">
+	<summary>
+hideCC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.audioPlayer.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.audioPlayer.showBtn">
+	<summary>
+showBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.audioPlayer.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.showOtherText">
+	<summary>
+showOtherText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.output">
+	<summary>
+output control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.showPlan">
+	<summary>
+showPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.part1Alcohol">
+	<summary>
+part1Alcohol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.ImageButton0">
+	<summary>
+ImageButton0 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.showNote">
+	<summary>
+showNote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.planList">
+	<summary>
+planList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.nextButton1">
+	<summary>
+nextButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.part1notebook">
+	<summary>
+part1notebook control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.notebookContent1">
+	<summary>
+notebookContent1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.ImageButton1">
+	<summary>
+ImageButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.showNote2">
+	<summary>
+showNote2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.planList2">
+	<summary>
+planList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.nextButton2">
+	<summary>
+nextButton2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.notebookContent2">
+	<summary>
+notebookContent2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.ImageButton2">
+	<summary>
+ImageButton2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.nextButton">
+	<summary>
+nextButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.PlanReview.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MonitorPage.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MonitorPage.theText">
+	<summary>
+theText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.nyu.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.nyu.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.nyu.showError">
+	<summary>
+showError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.nyu.displayPage">
+	<summary>
+displayPage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.nyu.UniqueID">
+	<summary>
+UniqueID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.nyu.btnContinue">
+	<summary>
+btnContinue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.nyu.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.header.windowTitle">
+	<summary>
+windowTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.header.customCSS">
+	<summary>
+customCSS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.header.titleImg">
+	<summary>
+titleImg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.header.logoImg">
+	<summary>
+logoImg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.page_1">
+	<summary>
+page_1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.gender">
+	<summary>
+gender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.page2">
+	<summary>
+page2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.page2LR">
+	<summary>
+page2LR control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.page3">
+	<summary>
+page3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.avgNoDrinks">
+	<summary>
+avgNoDrinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.gender2">
+	<summary>
+gender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.typicalDrinks">
+	<summary>
+typicalDrinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.Chart1">
+	<summary>
+Chart1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.percentile">
+	<summary>
+percentile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.pluralGender">
+	<summary>
+pluralGender control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.gender3">
+	<summary>
+gender3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.percentileNo">
+	<summary>
+percentileNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.percent">
+	<summary>
+percent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.page4">
+	<summary>
+page4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.peakDrinks">
+	<summary>
+peakDrinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.hours">
+	<summary>
+hours control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.mins">
+	<summary>
+mins control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.bac">
+	<summary>
+bac control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.page5">
+	<summary>
+page5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.peakBAC">
+	<summary>
+peakBAC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.page6">
+	<summary>
+page6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.page7">
+	<summary>
+page7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.noDrinks2">
+	<summary>
+noDrinks2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.page8None">
+	<summary>
+page8None control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.page8">
+	<summary>
+page8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.count">
+	<summary>
+count control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.hangover">
+	<summary>
+hangover control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.PassedOut">
+	<summary>
+PassedOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.forgot">
+	<summary>
+forgot control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.regretted">
+	<summary>
+regretted control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.sick">
+	<summary>
+sick control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.school">
+	<summary>
+school control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.class">
+	<summary>
+class control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.fight">
+	<summary>
+fight control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.dwi">
+	<summary>
+dwi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.noDrinks">
+	<summary>
+noDrinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.argue">
+	<summary>
+argue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.gender4">
+	<summary>
+gender4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.avgNoConseq">
+	<summary>
+avgNoConseq control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.percentileConseq">
+	<summary>
+percentileConseq control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.pluralGender2">
+	<summary>
+pluralGender2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.gender5">
+	<summary>
+gender5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.studentWithConseq">
+	<summary>
+studentWithConseq control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.conseqPercent">
+	<summary>
+conseqPercent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.page9">
+	<summary>
+page9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.calories">
+	<summary>
+calories control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.pizza">
+	<summary>
+pizza control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.burger">
+	<summary>
+burger control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.icecream">
+	<summary>
+icecream control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.moreSurveyFeedback.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu._default6.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.defaultr.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.defaultr.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.defaultr.showContent">
+	<summary>
+showContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.defaultr.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.defaultr.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Media.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Media.templateCSS">
+	<summary>
+templateCSS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Media.templateCSS2">
+	<summary>
+templateCSS2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Media.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Media.showContent">
+	<summary>
+showContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Media.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Media.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.reLoadCurrent.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.headerNoNav.windowTitle">
+	<summary>
+windowTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.headerNoNav.syllabusCSS2">
+	<summary>
+syllabusCSS2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.LostPassword.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.LostPassword.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.LostPassword.errorMSg">
+	<summary>
+errorMSg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.LostPassword.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.CustomvideoHelp.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.CustomvideoHelp.vidID">
+	<summary>
+vidID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.CustomvideoHelp.VidID2">
+	<summary>
+VidID2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.animation.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.animation.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.animation.errorMsg">
+	<summary>
+errorMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.animation.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.animation.showBtn">
+	<summary>
+showBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.animation.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.AccountTransfer_ChangeSegment.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.alt21.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.alt21.templateCSS">
+	<summary>
+templateCSS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.alt21.templateCSS2">
+	<summary>
+templateCSS2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.alt21.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.alt21.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.alt21.runScript">
+	<summary>
+runScript control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.alt21.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.greekText.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.greekText.greekTextTitle">
+	<summary>
+greekTextTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.greekText.greekText">
+	<summary>
+greekText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.newUser_SSL.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.newUser_SSL.IsSecure">
+	<summary>
+IsSecure control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.welcome">
+	<summary>
+welcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.courseSettings">
+	<summary>
+courseSettings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.cboSpeed">
+	<summary>
+cboSpeed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.cc">
+	<summary>
+cc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.saveMediaSettingsButton">
+	<summary>
+saveMediaSettingsButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.errorMsg">
+	<summary>
+errorMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.firstName">
+	<summary>
+firstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.mName">
+	<summary>
+mName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.lastName">
+	<summary>
+lastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.firsNameChg">
+	<summary>
+firsNameChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.mNameChg">
+	<summary>
+mNameChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.lastNameChg">
+	<summary>
+lastNameChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.userLogin">
+	<summary>
+userLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.userLoginChg">
+	<summary>
+userLoginChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.SAAHide">
+	<summary>
+SAAHide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.password">
+	<summary>
+password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.passwordChg">
+	<summary>
+passwordChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.showID">
+	<summary>
+showID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.SID">
+	<summary>
+SID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.SIDChg">
+	<summary>
+SIDChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.showTag">
+	<summary>
+showTag control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.tagLabel">
+	<summary>
+tagLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.studentTag">
+	<summary>
+studentTag control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.studentTagChg">
+	<summary>
+studentTagChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.editMyProfileButton">
+	<summary>
+editMyProfileButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.saveMyProfileButton">
+	<summary>
+saveMyProfileButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.Exam">
+	<summary>
+Exam control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.fname">
+	<summary>
+fname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.mi">
+	<summary>
+mi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.lname">
+	<summary>
+lname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.examGrade">
+	<summary>
+examGrade control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.examhistory">
+	<summary>
+examhistory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.passfail">
+	<summary>
+passfail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.complete">
+	<summary>
+complete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.noCert">
+	<summary>
+noCert control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.showHonestyPolicy">
+	<summary>
+showHonestyPolicy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.personalPlan">
+	<summary>
+personalPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.planLink">
+	<summary>
+planLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.resources">
+	<summary>
+resources control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.showCustomText1">
+	<summary>
+showCustomText1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.showCustomText4">
+	<summary>
+showCustomText4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.showCustomText5">
+	<summary>
+showCustomText5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.showCustomText6">
+	<summary>
+showCustomText6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.showCustomText2">
+	<summary>
+showCustomText2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.showCustomText7">
+	<summary>
+showCustomText7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.getinvolved">
+	<summary>
+getinvolved control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.showCustomText3">
+	<summary>
+showCustomText3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.Div1">
+	<summary>
+Div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button1">
+	<summary>
+button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button1Active">
+	<summary>
+button1Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button2">
+	<summary>
+button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button2Active">
+	<summary>
+button2Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button3">
+	<summary>
+button3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button3Active">
+	<summary>
+button3Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button4">
+	<summary>
+button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button4Active">
+	<summary>
+button4Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button5">
+	<summary>
+button5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button5Active">
+	<summary>
+button5Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button6">
+	<summary>
+button6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.button6Active">
+	<summary>
+button6Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEduPopUp.tabSet">
+	<summary>
+tabSet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.transfer.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.transfer.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.transfer.errMsg">
+	<summary>
+errMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.transfer.LoginID">
+	<summary>
+LoginID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.transfer.submit">
+	<summary>
+submit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.transfer.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.SAPolicy.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.SAPolicy.policy">
+	<summary>
+policy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WebForm1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom1.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Interview.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Interview.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Interview.errorMessage">
+	<summary>
+errorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Interview.interviewQuestions">
+	<summary>
+interviewQuestions control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Interview.interviewButton">
+	<summary>
+interviewButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Interview.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.errorMsg">
+	<summary>
+errorMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.movie1">
+	<summary>
+movie1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.cc1">
+	<summary>
+cc1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.showcc1">
+	<summary>
+showcc1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.movie2">
+	<summary>
+movie2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.cc2">
+	<summary>
+cc2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.showcc2">
+	<summary>
+showcc2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.movie3">
+	<summary>
+movie3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.cc3">
+	<summary>
+cc3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.showcc3">
+	<summary>
+showcc3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.movie4">
+	<summary>
+movie4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.cc4">
+	<summary>
+cc4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.flashMovie.showcc4">
+	<summary>
+showcc4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.generalText">
+	<summary>
+generalText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.Reaction">
+	<summary>
+Reaction control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.HighAudit">
+	<summary>
+HighAudit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.policy">
+	<summary>
+policy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.wlink">
+	<summary>
+wlink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.plink">
+	<summary>
+plink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.elink">
+	<summary>
+elink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.policy2">
+	<summary>
+policy2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.wlink2">
+	<summary>
+wlink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.plink2">
+	<summary>
+plink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.elink2">
+	<summary>
+elink2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.HighAudit2">
+	<summary>
+HighAudit2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.policy3">
+	<summary>
+policy3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.wlink3">
+	<summary>
+wlink3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.plink3">
+	<summary>
+plink3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.elink3">
+	<summary>
+elink3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.LowAudit2">
+	<summary>
+LowAudit2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.policy4">
+	<summary>
+policy4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.wlink4">
+	<summary>
+wlink4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.plink4">
+	<summary>
+plink4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.elink4">
+	<summary>
+elink4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.nextBtn">
+	<summary>
+nextBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.HiddenValues">
+	<summary>
+HiddenValues control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.Referral.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.HSVerifyLogin.LitEMAIL2">
+	<summary>
+LitEMAIL2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.login_jecomm.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.login_jecomm.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.login_jecomm.errorDisplay">
+	<summary>
+errorDisplay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.login_jecomm.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.login_SAEDU.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC2.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC2.Stress">
+	<summary>
+Stress control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC2.Addictive">
+	<summary>
+Addictive control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC2.Laws">
+	<summary>
+Laws control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC2.Creativity">
+	<summary>
+Creativity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMSA.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.ScarePop.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.ScarePop.ScareTactic">
+	<summary>
+ScareTactic control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.ScarePop.UserID">
+	<summary>
+UserID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.AlcoholPolicy.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.AlcoholPolicy.policy">
+	<summary>
+policy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC.OldProof">
+	<summary>
+OldProof control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC.OldTolerance">
+	<summary>
+OldTolerance control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC.RacialMain">
+	<summary>
+RacialMain control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC.RacialMajor">
+	<summary>
+RacialMajor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC.RacialAcct">
+	<summary>
+RacialAcct control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC.RacialRisk">
+	<summary>
+RacialRisk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBAC.UserID">
+	<summary>
+UserID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.errorMsg">
+	<summary>
+errorMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.movie1">
+	<summary>
+movie1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.cc1">
+	<summary>
+cc1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.showcc1">
+	<summary>
+showcc1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.movie2">
+	<summary>
+movie2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.cc2">
+	<summary>
+cc2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.showcc2">
+	<summary>
+showcc2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.movie3">
+	<summary>
+movie3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.cc3">
+	<summary>
+cc3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.showcc3">
+	<summary>
+showcc3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.movie4">
+	<summary>
+movie4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.cc4">
+	<summary>
+cc4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.showcc4">
+	<summary>
+showcc4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.custom.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.displayNote.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.displayNote.display">
+	<summary>
+display control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.displayNote.nationalResources">
+	<summary>
+nationalResources control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.pollBanner">
+	<summary>
+pollBanner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.title">
+	<summary>
+title control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.errorMsg">
+	<summary>
+errorMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.content">
+	<summary>
+content control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.btnSubmit">
+	<summary>
+btnSubmit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.showresults">
+	<summary>
+showresults control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.PollQuestion">
+	<summary>
+PollQuestion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.Chart1">
+	<summary>
+Chart1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.btnNext">
+	<summary>
+btnNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.poll.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.SocialNorms.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.SocialNorms.Really">
+	<summary>
+Really control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.SocialNorms.Seriously">
+	<summary>
+Seriously control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.SocialNorms.ComeOn">
+	<summary>
+ComeOn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.SocialNorms.What">
+	<summary>
+What control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.SocialNorms.Kidding">
+	<summary>
+Kidding control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.SocialNorms.errPanel">
+	<summary>
+errPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu._21Debate.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MailPassword.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MailPassword.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MailPassword.errorMSg">
+	<summary>
+errorMSg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MailPassword.showQuestion">
+	<summary>
+showQuestion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MailPassword.gQuestion">
+	<summary>
+gQuestion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MailPassword.ShowEmailSent">
+	<summary>
+ShowEmailSent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MailPassword.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.videoHelp.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.WTLMBrain.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MakeCC.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MakeCC.makeCC">
+	<summary>
+makeCC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.player.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.player.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.player.errorMsg">
+	<summary>
+errorMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.player.magicWand">
+	<summary>
+magicWand control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.player.canvasImg">
+	<summary>
+canvasImg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.player.playlistcontents">
+	<summary>
+playlistcontents control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.player.hideCC">
+	<summary>
+hideCC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.player.singleFile">
+	<summary>
+singleFile control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.player.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.player.showBtn">
+	<summary>
+showBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.player.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.HSRedirect.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.LogoutMessages.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.LogoutMessages.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.LogoutMessages.errorMessage">
+	<summary>
+errorMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.LogoutMessages.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.staticPage">
+	<summary>
+staticPage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.introText">
+	<summary>
+introText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.choosePath">
+	<summary>
+choosePath control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sally">
+	<summary>
+sally control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.dave">
+	<summary>
+dave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.finalPage">
+	<summary>
+finalPage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.showResults">
+	<summary>
+showResults control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sally1">
+	<summary>
+sally1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sallyBAC1">
+	<summary>
+sallyBAC1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sally2">
+	<summary>
+sally2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sallyBAC2">
+	<summary>
+sallyBAC2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sally3">
+	<summary>
+sally3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sallyBAC3">
+	<summary>
+sallyBAC3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sally4">
+	<summary>
+sally4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sallyDrink4">
+	<summary>
+sallyDrink4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sallyBAC4">
+	<summary>
+sallyBAC4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sally5">
+	<summary>
+sally5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sallyDrink5">
+	<summary>
+sallyDrink5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sallyBAC5">
+	<summary>
+sallyBAC5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sally6">
+	<summary>
+sally6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sallyDrink6">
+	<summary>
+sallyDrink6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sallyBAC6">
+	<summary>
+sallyBAC6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.dave1">
+	<summary>
+dave1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveBAC1">
+	<summary>
+daveBAC1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.dave2">
+	<summary>
+dave2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveBAC2">
+	<summary>
+daveBAC2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.dave3">
+	<summary>
+dave3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveBAC3">
+	<summary>
+daveBAC3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.dave4">
+	<summary>
+dave4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveDrink4">
+	<summary>
+daveDrink4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveBAC4">
+	<summary>
+daveBAC4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.dave5">
+	<summary>
+dave5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveDrink5">
+	<summary>
+daveDrink5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveBAC5">
+	<summary>
+daveBAC5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.dave6">
+	<summary>
+dave6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveDrink6">
+	<summary>
+daveDrink6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveBAC6">
+	<summary>
+daveBAC6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.dave7">
+	<summary>
+dave7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveDrink7">
+	<summary>
+daveDrink7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveBAC7">
+	<summary>
+daveBAC7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC0">
+	<summary>
+BAC0 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC0drinks">
+	<summary>
+BAC0drinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC0hours">
+	<summary>
+BAC0hours control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC1">
+	<summary>
+BAC1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC1drinks">
+	<summary>
+BAC1drinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC1hours">
+	<summary>
+BAC1hours control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC1BAC">
+	<summary>
+BAC1BAC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC2">
+	<summary>
+BAC2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC2drinks">
+	<summary>
+BAC2drinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC2hours">
+	<summary>
+BAC2hours control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC2BAC">
+	<summary>
+BAC2BAC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC3">
+	<summary>
+BAC3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC3drinks">
+	<summary>
+BAC3drinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC3hours">
+	<summary>
+BAC3hours control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC3BAC">
+	<summary>
+BAC3BAC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC4">
+	<summary>
+BAC4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC4drinks">
+	<summary>
+BAC4drinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC4hours">
+	<summary>
+BAC4hours control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.BAC4BAC">
+	<summary>
+BAC4BAC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.Chart1">
+	<summary>
+Chart1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.daveBtn2">
+	<summary>
+daveBtn2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.sallyBtn2">
+	<summary>
+sallyBtn2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.inputDrinks">
+	<summary>
+inputDrinks control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.inputSally">
+	<summary>
+inputSally control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.inputDave">
+	<summary>
+inputDave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.inputFriend">
+	<summary>
+inputFriend control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.inputLoop">
+	<summary>
+inputLoop control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.inputRetrySally">
+	<summary>
+inputRetrySally control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.inputRetryDave">
+	<summary>
+inputRetryDave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.inputfieldsSally">
+	<summary>
+inputfieldsSally control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.inputfieldsDave">
+	<summary>
+inputfieldsDave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.inputfieldsClear">
+	<summary>
+inputfieldsClear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.runBAC">
+	<summary>
+runBAC control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.runBacAgain">
+	<summary>
+runBacAgain control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.runBacAgainDave">
+	<summary>
+runBacAgainDave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.BACCurveEx.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.JoesBlog.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.JoesBlog.Meanest">
+	<summary>
+Meanest control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.JoesBlog.Expect">
+	<summary>
+Expect control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.JoesBlog.Facebook">
+	<summary>
+Facebook control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.JoesBlog.Braindoc">
+	<summary>
+Braindoc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.choosePlan.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.choosePlan.templateCSS">
+	<summary>
+templateCSS control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.choosePlan.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.choosePlan.message">
+	<summary>
+message control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.choosePlan.drinker">
+	<summary>
+drinker control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.choosePlan.abstainer">
+	<summary>
+abstainer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.choosePlan.HiddenPage">
+	<summary>
+HiddenPage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.choosePlan.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.choosePlan.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.mapUSlaws.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.mapUSlaws.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.mapUSlaws.showMap1">
+	<summary>
+showMap1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.mapUSlaws.OpenMap">
+	<summary>
+OpenMap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.mapUSlaws.submitAnswer">
+	<summary>
+submitAnswer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.mapUSlaws.showMap2">
+	<summary>
+showMap2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.mapUSlaws.niceWork">
+	<summary>
+niceWork control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.mapUSlaws.lblstate">
+	<summary>
+lblstate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.mapUSlaws.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.mapUSlaws.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.norms.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.norms.errPanel">
+	<summary>
+errPanel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.windowTitle">
+	<summary>
+windowTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.showOtherText">
+	<summary>
+showOtherText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.output">
+	<summary>
+output control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.fvNext">
+	<summary>
+fvNext control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.close">
+	<summary>
+close control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.showPlan">
+	<summary>
+showPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.part1Alcohol">
+	<summary>
+part1Alcohol control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.ImageButton0">
+	<summary>
+ImageButton0 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.showNote">
+	<summary>
+showNote control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.showReflections">
+	<summary>
+showReflections control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.planList">
+	<summary>
+planList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.nextButton">
+	<summary>
+nextButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.hideTabs">
+	<summary>
+hideTabs control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.part1notebook">
+	<summary>
+part1notebook control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.notebookContent1">
+	<summary>
+notebookContent1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.ImageButton1">
+	<summary>
+ImageButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.showNote2">
+	<summary>
+showNote2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.showReflections2">
+	<summary>
+showReflections2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.planList2">
+	<summary>
+planList2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.part2notebook">
+	<summary>
+part2notebook control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.notebookContent2">
+	<summary>
+notebookContent2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.ImageButton2">
+	<summary>
+ImageButton2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.planReviewTool1.stressList">
+	<summary>
+stressList control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.previewPF.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.previewPF.content">
+	<summary>
+content control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.previewPF.sendEmailbtn">
+	<summary>
+sendEmailbtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.surveyFeedback.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.surveyFeedback.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.surveyFeedback.default">
+	<summary>
+default control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.surveyFeedback.CommittedAbstainer">
+	<summary>
+CommittedAbstainer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.surveyFeedback.Abstainer">
+	<summary>
+Abstainer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.surveyFeedback.lightDrinker">
+	<summary>
+lightDrinker control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.surveyFeedback.heavyDrinker">
+	<summary>
+heavyDrinker control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.surveyFeedback.frequentHeavyDrinker">
+	<summary>
+frequentHeavyDrinker control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.surveyFeedback.nextBtn">
+	<summary>
+nextBtn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.surveyFeedback.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.examError.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.examError.specialMessage">
+	<summary>
+specialMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.examError.message">
+	<summary>
+message control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.welcome">
+	<summary>
+welcome control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.courseSettings">
+	<summary>
+courseSettings control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.cboSpeed">
+	<summary>
+cboSpeed control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.cc">
+	<summary>
+cc control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.saveMediaSettingsButton">
+	<summary>
+saveMediaSettingsButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.errorMsg">
+	<summary>
+errorMsg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.firstName">
+	<summary>
+firstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.mName">
+	<summary>
+mName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.lastName">
+	<summary>
+lastName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.firsNameChg">
+	<summary>
+firsNameChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.mNameChg">
+	<summary>
+mNameChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.lastNameChg">
+	<summary>
+lastNameChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.userLogin">
+	<summary>
+userLogin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.userLoginChg">
+	<summary>
+userLoginChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.SAAHide">
+	<summary>
+SAAHide control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.password">
+	<summary>
+password control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.passwordChg">
+	<summary>
+passwordChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.showID">
+	<summary>
+showID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.SID">
+	<summary>
+SID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.SIDChg">
+	<summary>
+SIDChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.showTag">
+	<summary>
+showTag control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.tagLabel">
+	<summary>
+tagLabel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.studentTag">
+	<summary>
+studentTag control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.studentTagChg">
+	<summary>
+studentTagChg control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.editMyProfileButton">
+	<summary>
+editMyProfileButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.saveMyProfileButton">
+	<summary>
+saveMyProfileButton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.Exam">
+	<summary>
+Exam control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.fname">
+	<summary>
+fname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.mi">
+	<summary>
+mi control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.lname">
+	<summary>
+lname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.examGrade">
+	<summary>
+examGrade control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.examhistory">
+	<summary>
+examhistory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.passfail">
+	<summary>
+passfail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.complete">
+	<summary>
+complete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.noCert">
+	<summary>
+noCert control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.printCert">
+	<summary>
+printCert control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.noCert2">
+	<summary>
+noCert2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.showHonestyPolicy">
+	<summary>
+showHonestyPolicy control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.GSR">
+	<summary>
+GSR control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.GSRWinner">
+	<summary>
+GSRWinner control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.personalPlan">
+	<summary>
+personalPlan control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.planLink">
+	<summary>
+planLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.resources">
+	<summary>
+resources control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.showCustomText1">
+	<summary>
+showCustomText1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.showCustomText4">
+	<summary>
+showCustomText4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.showCustomText5">
+	<summary>
+showCustomText5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.showCustomText6">
+	<summary>
+showCustomText6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.showCustomText2">
+	<summary>
+showCustomText2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.showCustomText7">
+	<summary>
+showCustomText7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.getinvolved">
+	<summary>
+getinvolved control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.showCustomText3">
+	<summary>
+showCustomText3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.faqLnk">
+	<summary>
+faqLnk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.faq">
+	<summary>
+faq control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.logoutLnk">
+	<summary>
+logoutLnk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.logout">
+	<summary>
+logout control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button1">
+	<summary>
+button1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button1Active">
+	<summary>
+button1Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button2Active">
+	<summary>
+button2Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button2">
+	<summary>
+button2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button3">
+	<summary>
+button3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button3Active">
+	<summary>
+button3Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button4">
+	<summary>
+button4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button4Active">
+	<summary>
+button4Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button5">
+	<summary>
+button5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button5Active">
+	<summary>
+button5Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button6">
+	<summary>
+button6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.button6Active">
+	<summary>
+button6Active control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.MyAlcoholEdu.tabSet">
+	<summary>
+tabSet control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu._default3.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.login_ecomm.pageHeader">
+	<summary>
+pageHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.login_ecomm.theForm">
+	<summary>
+theForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.login_ecomm.errorDisplay">
+	<summary>
+errorDisplay control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:AlcoholEdu.login_ecomm.pageFooter">
+	<summary>
+pageFooter control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
